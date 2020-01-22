@@ -1,0 +1,33 @@
+{
+  "docs": {
+    "Getting Started": [
+      "installation",
+      "preparation",
+      "create-slowly-app",
+      "publishing"
+    ],
+    "Guides": [
+      "normal",
+      "custom-pages",
+      "search",
+      "navigation",
+      "translation",
+      "versioning"
+    ],
+    "API": [
+      "commands",
+      "doc-markdown",
+      "api-pages",
+      "site-config"
+    ]
+  },
+  "tutorial": {
+    "Tutorial": [
+      "tutorial-setup",
+      "tutorial-create-new-site",
+      "tutorial-create-pages",
+      "tutorial-publish-site",
+      "tutorial-version"
+    ]
+  }
+}
